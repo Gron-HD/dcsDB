@@ -21,7 +21,7 @@ class AboutPage extends React.Component{
                 <p>You can find the GitHub project <a href="https://github.com/Gron-HD/dcs-DB">here</a>.</p>
                 <p>This will always remain free and without ads.</p>
 
-                <p>This website was originally created by <a href="github.com/Dzsek">dzsek</a>. However, he took his project down, and now <a href="https://github.com/Gron-HD">I</a> am continuing it.</p>
+                <p>This website was originally created by <a href="https://github.com/Dzsek">dzsek</a>. However, he took his project down, and now <a href="https://github.com/Gron-HD">I</a> am continuing it.</p>
             </div>
 
         );
