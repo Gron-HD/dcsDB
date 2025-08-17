@@ -1,0 +1,22 @@
+{
+  "id": "bdu45",
+  "name": "BDU-45",
+  "description": "Training bomb",
+  "data": {
+    "Guidance": "Unguided",
+    "Type": "Training bomb",
+    "Warhead": "None"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "fa18c",
+      "name": "F/A-18C"
+    },
+    {
+      "instructions": [],
+      "id": "f4e",
+      "name": "F-4E"
+    }
+  ]
+}
