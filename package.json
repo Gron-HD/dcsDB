@@ -1,8 +1,8 @@
 {
-  "name": "dcsdb",
+  "name": "dcs-DB",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://dzsek.github.io/dcsdb",
+  "homepage": "https://gron-hd.github.io/dcs-DB",
   "dependencies": {
     "node-sass": "^9.0.0",
     "react": "^18.2.0",
@@ -40,3 +40,4 @@
     "gh-pages": "^3.2.3"
   }
 }
+
