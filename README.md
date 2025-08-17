@@ -7,5 +7,4 @@ This project is meant to be a database containing information on all usable modu
 * Search for modules and weapons by name
 * Weapons available for each module referenced under said module
 
-[Website](https://about:blank)
-
+[Website](https://gron-hd.github.io/dcs-DB)
