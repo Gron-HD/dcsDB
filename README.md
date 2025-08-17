@@ -7,4 +7,5 @@ This project is meant to be a database containing information on all usable modu
 * Search for modules and weapons by name
 * Weapons available for each module referenced under said module
 
-[Website](https://dzsek.github.io/dcsdb)
+[Website](https://about:blank)
+
